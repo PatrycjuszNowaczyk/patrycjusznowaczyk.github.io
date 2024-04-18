@@ -1,10 +1,12 @@
 ## Welcome to my GitHub Pages
 
 #### There are links to my projects i created, and are live on github pages:
+   ---
 > [gemini park](https://patrycjusznowaczyk.github.io/gemini/)
 
-> Html template for one of my clients. 
+> Html template for one of my clients.
 
+   ---
 > [bet on concrete](https://patrycjusznowaczyk.github.io/bet_on_concrete/)
 
 > This is example of power of tailwind css.
@@ -28,3 +30,5 @@
 > [search image](https://patrycjusznowaczyk.github.io/unsplash-react/)
 
 > This is search image app created with react and vite
+
+   ---

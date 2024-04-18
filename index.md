@@ -19,7 +19,7 @@
    ---
 > [Search image](https://patrycjusznowaczyk.github.io/unsplash-vanilla-js/)
 
-> This is search image app created with vanilla js
+> This is infinite images scroll app created with vanilla js
 
    ---
 > [Search image](https://patrycjusznowaczyk.github.io/unsplash-react/)

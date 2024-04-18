@@ -1,6 +1,9 @@
 ## Welcome to my GitHub Pages
 
 #### There are links to my projects i created, and are live on github pages:
+> [gemini park](https://patrycjusznowaczyk.github.io/gemini/)
+
+> Html template for one of my clients. 
 
 > [bet on concrete](https://patrycjusznowaczyk.github.io/bet_on_concrete/)
 

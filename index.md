@@ -17,7 +17,7 @@
 > This is simple css rotate generator created in Vue.js and build for fun.
    
    ---
-> [Search image](https://patrycjusznowaczyk.github.io/unsplash-vanilla-js/)
+> [Scroll images](https://patrycjusznowaczyk.github.io/unsplash-vanilla-js/)
 
 > This is infinite images scroll app created with vanilla js
 

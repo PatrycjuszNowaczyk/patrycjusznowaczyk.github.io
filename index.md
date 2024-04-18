@@ -17,11 +17,11 @@
 > This is simple css rotate generator created in Vue.js and build for fun.
    
    ---
-> This is search image app created with vanilla js
-
 > [Search image](https://patrycjusznowaczyk.github.io/unsplash-vanilla-js/)
 
-   ---
-> This is search image app created with react and vite
+> This is search image app created with vanilla js
 
+   ---
 > [Search image](https://patrycjusznowaczyk.github.io/unsplash-react/)
+
+> This is search image app created with react and vite

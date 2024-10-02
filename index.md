@@ -14,7 +14,7 @@
    ---
 > [gemini park](https://patrycjusznowaczyk.github.io/gemini/)
 
-> Html template for one of my clients.
+> Html template for one of my clients. You can see it in action at [geminipark.pl](https://geminipark.pl)
 
    ---
 > [bet on concrete](https://patrycjusznowaczyk.github.io/bet_on_concrete/)

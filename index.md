@@ -22,6 +22,11 @@
 > Html template for one of my clients.
 
    ---
+> <a href="https://patrycjusznowaczyk.github.io/sfinance/" target="_blank">sfinance</a>
+
+> Html template for one of my clients.
+
+   ---
 > <a href="https://patrycjusznowaczyk.github.io/bet_on_concrete/" target="_blank">bet on concrete</a>
 
 > Example of power of tailwind css in react.

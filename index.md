@@ -13,6 +13,7 @@
 
    ---
 > [gemini park](https://patrycjusznowaczyk.github.io/gemini/)
+> <a href="https://patrycjusznowaczyk.github.io/gemini/" target="_blank">new tab</a>
 
 > Html template for one of my clients. You can see it in action at [geminipark.pl](https://geminipark.pl)
 

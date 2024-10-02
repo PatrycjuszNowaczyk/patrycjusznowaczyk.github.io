@@ -17,6 +17,11 @@
 > Html template for one of my clients. You can see it in action at <a href="https://geminipark.pl" target="_blank">geminipark.pl</a>.
 
    ---
+> <a href="https://patrycjusznowaczyk.github.io/awsa/" target="_blank">autostrada wielkopolska</a>
+
+> Html template for one of my clients.
+
+   ---
 > <a href="https://patrycjusznowaczyk.github.io/bet_on_concrete/" target="_blank">bet on concrete</a>
 
 > Example of power of tailwind css in react.

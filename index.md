@@ -22,7 +22,7 @@
 > Example of power of tailwind css in react.
 
    ---
-> <a href="https:/patrycjusznowaczyk.github.io/vue_generate_rotate/" target="_blank">css rotate generator</a>
+> <a href="https://patrycjusznowaczyk.github.io/vue_generate_rotate/" target="_blank">css rotate generator</a>
 
 > CSS rotate generator created in Vue.js and build for fun.
    

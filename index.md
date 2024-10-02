@@ -1,6 +1,6 @@
-## Welcome to my GitHub Pages
+## Patrycjusz Nowaczyk
 
-#### There are links to my projects i created, and are live on github pages:
+#### There are links to my projects:
    ---
 > [scroll images](https://patrycjusznowaczyk.github.io/unsplash-vanilla-js/)
 
@@ -19,7 +19,7 @@
    ---
 > [bet on concrete](https://patrycjusznowaczyk.github.io/bet_on_concrete/)
 
-> Example of power of tailwind css.
+> Example of power of tailwind css in react.
 
    ---
 > [css rotate generator](https://patrycjusznowaczyk.github.io/vue_generate_rotate/)

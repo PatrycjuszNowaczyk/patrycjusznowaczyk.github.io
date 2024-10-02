@@ -1,6 +1,6 @@
 ## Patrycjusz Nowaczyk
 
-#### There are links to my projects:
+#### Here are links to projects I’ve worked on:
    ---
 > <a href="https://patrycjusznowaczyk.github.io/unsplash-vanilla-js/" target="_blank">scroll images</a>
 

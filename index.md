@@ -2,33 +2,32 @@
 
 #### There are links to my projects:
    ---
-> [scroll images](https://patrycjusznowaczyk.github.io/unsplash-vanilla-js/)
+> <a href="https://patrycjusznowaczyk.github.io/unsplash-vanilla-js/" target="_blank">scroll images</a>
 
 > Infinite images scroll app created with vanilla js.
 
    ---
-> [search image](https://patrycjusznowaczyk.github.io/unsplash-react/)
+> <a href="https://patrycjusznowaczyk.github.io/unsplash-react/" target="_blank">search image</a>
 
 > Search image app created with react and vite.
 
    ---
-> [gemini park](https://patrycjusznowaczyk.github.io/gemini/)
-> <a href="https://patrycjusznowaczyk.github.io/gemini/" target="_blank">new tab</a>
+> <a href="https://patrycjusznowaczyk.github.io/gemini/" target="_blank">gemini park</a>
 
-> Html template for one of my clients. You can see it in action at [geminipark.pl](https://geminipark.pl)
+> Html template for one of my clients. You can see it in action at <a href="https://geminipark.pl" target="_blank">geminipark.pl</a>.
 
    ---
-> [bet on concrete](https://patrycjusznowaczyk.github.io/bet_on_concrete/)
+> <a href="https://github.com/patrycjusznowaczyk/bet_on_concrete" target="_blank">bet on concrete</a>
 
 > Example of power of tailwind css in react.
 
    ---
-> [css rotate generator](https://patrycjusznowaczyk.github.io/vue_generate_rotate/)
+> <a href="https://github.com/patrycjusznowaczyk/vue_generate_rotate" target="_blank">css rotate generator</a>
 
 > CSS rotate generator created in Vue.js and build for fun.
    
    ---
-> [find a monster](https://patrycjusznowaczyk.github.io/react_find_your_monster/)
+> <a href="https://github.com/patrycjusznowaczyk/react_find_your_monster" target="_blank">react find your monster</a>
 
 > Simple search example build with react.
 

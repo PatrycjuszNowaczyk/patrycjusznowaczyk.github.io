@@ -9,6 +9,8 @@
 > 
 > Students also have the ability to upload SGF files (up to 10 per lesson) to enhance their learning experience and receive targeted feedback from teachers. Additionally, teachers can enhance their profiles by uploading introductory and sample lesson videos in various languages, helping students choose the right teacher for their style.
 > 
+> This application is developed in a containerized environment, with Symfony used as the backend API provider and Gatsby.js for the frontend.
+> 
 > `commercial`
 
    ---

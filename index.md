@@ -31,16 +31,6 @@
 > ![Badge](https://img.shields.io/badge/SCSS-B56576?style=for-the-badge&labelColor=000&logo=sass)
 
    ---
-> <a href="https://patrycjusznowaczyk.github.io/unsplash-vanilla-js/" target="_blank">scroll images</a>
-> 
-> Infinite images scroll app created with vanilla js.
->
-> `personal`
->
-> ![Badge](https://img.shields.io/badge/JavaScript-C7B11E?style=for-the-badge&labelColor=000&logo=javascript)
-> ![Badge](https://img.shields.io/badge/SCSS-B56576?style=for-the-badge&labelColor=000&logo=sass)
-
-   ---
 > <a href="https://patrycjusznowaczyk.github.io/unsplash-react/" target="_blank">search image</a>
 >
 > Search image app created with react and vite.
@@ -48,6 +38,16 @@
 > `personal`
 > 
 > ![Badge](https://img.shields.io/badge/React-0F6784?style=for-the-badge&labelColor=000&logo=react)
+> ![Badge](https://img.shields.io/badge/SCSS-B56576?style=for-the-badge&labelColor=000&logo=sass)
+
+   ---
+> <a href="https://patrycjusznowaczyk.github.io/unsplash-vanilla-js/" target="_blank">scroll images</a>
+> 
+> Infinite images scroll app created with vanilla js.
+>
+> `personal`
+>
+> ![Badge](https://img.shields.io/badge/JavaScript-C7B11E?style=for-the-badge&labelColor=000&logo=javascript)
 > ![Badge](https://img.shields.io/badge/SCSS-B56576?style=for-the-badge&labelColor=000&logo=sass)
 
    ---

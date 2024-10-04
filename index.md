@@ -5,7 +5,7 @@
    ---
 > <a href="https://polgote.com" target="_blank" rel="noreferrer noopener nofollow">polgote.com</a>
 > 
-> Polgoote.com is a comprehensive platform designed for GO (Baduk) teachers and students. Teachers can create individual or group lessons, which students can purchase according to their needs. Students have the flexibility to book single lessons or packages of 3 or 10 lessons, based on the teacher’s available calendar. For group sessions, teachers can easily set up lessons using a specialized group lesson creator.
+> Polgote.com is a comprehensive platform designed for GO (Baduk) teachers and students. Teachers can create individual or group lessons, which students can purchase according to their needs. Students have the flexibility to book single lessons or packages of 3 or 10 lessons, based on the teacher’s available calendar. For group sessions, teachers can easily set up lessons using a specialized group lesson creator.
 > 
 > Students also have the ability to upload SGF files (up to 10 per lesson) to enhance their learning experience and receive targeted feedback from teachers. Additionally, teachers can enhance their profiles by uploading introductory and sample lesson videos in various languages, helping students choose the right teacher for their style.
 > 
